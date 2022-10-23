@@ -1,2 +1,2 @@
 # ReminderBot
-Телеграм бот для stuff.
+Телеграм бот Python для stuff.
